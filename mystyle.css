@@ -30,8 +30,9 @@ p{
 	width:95%;
 }
 footer{
-	font-size:25px;
+	font-size:35px;
 	color:red;
+	font-family: 'Dancing Script', cursive;
 }
 ul {
   /*list-style-type: none;*/
