@@ -20,7 +20,7 @@ h2{
 }
 h3{
 	font-size:25px;
-	color:pink;
+	color:yellow;
 	
 }
 
@@ -28,6 +28,11 @@ p{
 	padding-top:5px;
 	line-height:1.5em;
 	width:95%;
+}
+footer{
+	font-size:25px;
+	color:red;
+	
 }
 ul {
   /*list-style-type: none;*/
