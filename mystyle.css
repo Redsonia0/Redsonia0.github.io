@@ -9,7 +9,7 @@ header, footer{
 }
 h1{
 	font-size:30px;
-	color:blue;
+	color:red;
 	padding-bottom:5px;
 	border-bottom:2px solid red;
 }
@@ -20,7 +20,7 @@ h2{
 }
 h3{
 	font-size:25px;
-	color:orange;
+	color:pink;
 	
 }
 
