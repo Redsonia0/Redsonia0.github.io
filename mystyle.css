@@ -34,6 +34,9 @@ footer{
 	color:red;
 	font-family:Brush Script MT, Brush Script Std, cursive;
 }
+img{
+	float:middle;
+}
 ul {
   /*list-style-type: none;*/
   margin: 0;
