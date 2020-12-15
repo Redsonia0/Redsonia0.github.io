@@ -34,16 +34,15 @@ footer{
 	color:red;
 	font-family:Brush Script MT, Brush Script Std, cursive;
         left:180px;
-	z-index:0;
+	z-index:1;
 }
 img{
 	position:absolute;
         margin:auto;
-        width:40%;
-	left:250px;
-	top:500px;
-	z-index:1;
-	
+        width:30%;
+	left:300px;
+	top:800px;
+	z-index:2;
 	#width: 1330px;
     	#height: 224px;
 }
