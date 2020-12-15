@@ -6,6 +6,7 @@ background-color:black;
 header, footer{
 	text-align:center;
 	margin:15px;
+	background:"sword.png"
 }
 h1{
 	font-size:30px;
