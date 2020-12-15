@@ -35,8 +35,11 @@ footer{
 	font-family:Brush Script MT, Brush Script Std, cursive;
 }
 img{
-	width: 1330px;
-    	height: 224px;
+	position:relative;
+        margin:auto;
+        width:30%;
+	#width: 1330px;
+    	#height: 224px;
 }
 ul {
   /*list-style-type: none;*/
