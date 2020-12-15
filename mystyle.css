@@ -6,7 +6,6 @@ background-color:black;
 header, footer{
 	text-align:center;
 	margin:15px;
-	background:"sword.png"
 }
 h1{
 	font-size:30px;
@@ -31,14 +30,17 @@ p{
 	width:95%;
 }
 footer{
-	font-size:45px;
+	font-size:40px;
 	color:red;
 	font-family:Brush Script MT, Brush Script Std, cursive;
+        left:500px;
 }
 img{
-	position:relative;
+	position:absolute;
         margin:auto;
-        width:30%;
+        width:40%;
+	left:500
+	
 	#width: 1330px;
     	#height: 224px;
 }
