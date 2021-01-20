@@ -96,7 +96,7 @@ width:49%;
   position:absolute;
   font-size:220px;
   color:yellow;
-  left:140px;
+  left:130px;
   top:10px;
   }
   .ship, .sun, .anchor, .tree, .eject, .sc, .shower{
@@ -139,7 +139,7 @@ color:blue;
 }       
 .sun{
 color:yellow;
-font-size:120px;
+font-size:140px;
 left:200px;
 top:50px;
 }
