@@ -106,7 +106,7 @@ width:49%;
   color:red;
   font-size:35px;
   left:390px;
-  top:200px;
+  top:125px;
   }
   .shower{
   left:250px;
@@ -130,7 +130,7 @@ top:135px;
 transform:rotate(-180deg);
 font-size:50px;
 left:390px;
-top:236px;
+top:156px;
 color:blue;
 }       
 .sun{
@@ -139,4 +139,5 @@ font-size:80px;
 left:390px;
 top:10px;
 }
+
 
