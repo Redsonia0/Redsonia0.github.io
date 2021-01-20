@@ -126,8 +126,9 @@ width:49%;
 }
 .sc{
 transform:rotate(-40deg);
-left:300px;
-top:75px;
+color:brown;
+left:100px;
+top:35px;
 }
 .eject{
 transform:rotate(-180deg);
