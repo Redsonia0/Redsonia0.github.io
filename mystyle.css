@@ -101,7 +101,6 @@ width:49%;
   }
   .ship, .sun, .tree, .eject, .sc, .shower{
   position:absolute;
-  color:red;
   }
   .ship{
   color:red;
@@ -111,7 +110,7 @@ width:49%;
   }
   .shower{
   left:190px;
-  top:130px;
+  top:145px;
   font-size:25px;
   color:black;
   }
