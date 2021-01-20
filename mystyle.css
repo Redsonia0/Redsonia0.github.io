@@ -95,8 +95,8 @@ width:49%;
   .cloud{
   position:absolute;
   font-size:220px;
-  color:brown;
-  left:180px;
+  color:yellow;
+  left:140px;
   top:10px;
   }
   .ship, .sun, .anchor, .tree, .eject, .sc, .shower{
@@ -135,7 +135,7 @@ top:130px;
 color:yellow;
 font-size:120px;
 left:200px;
-top:80px;
+top:50px;
 }
 .tree{
 color:green;
