@@ -105,7 +105,7 @@ width:49%;
   }
   .ship{
   color:red;
-  font-size:60px;
+  font-size:30px;
   left:390px;
   top:200px;
   }
@@ -131,6 +131,7 @@ top:75px;
 }
 .eject{
 transform:rotate(-180deg);
+font-size:30px;
 left:390px;
 top:260px;
 color:blue;
