@@ -120,15 +120,15 @@ width:49%;
   color:blue;
   }
   .shower{
-  left:220px;
+  left:190px;
   top:130px;
   color:black;
 }
 .sc{
 transform:rotate(-40deg);
 color:brown;
-left:100px;
-top:35px;
+left:190px;
+top:135px;
 }
 .eject{
 transform:rotate(-180deg);
