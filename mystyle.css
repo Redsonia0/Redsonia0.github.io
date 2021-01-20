@@ -114,7 +114,13 @@ width:49%;
   top:130px;
   font-size:25px;
   color:black;
-}
+  }
+  .tree{
+  left:245px;
+  top:130px;
+  font-size:35px;
+  color:green;
+  }
 .sc{
 transform:rotate(-40deg);
 color:brown;
@@ -123,7 +129,7 @@ top:135px;
 }
 .eject{
 transform:rotate(-180deg);
-font-size:38px;
+font-size:45px;
 left:390px;
 top:236px;
 color:blue;
@@ -133,10 +139,5 @@ color:yellow;
 font-size:80px;
 left:390px;
 top:10px;
-}
-.tree{
-color:green;
-left:245px;
-top:130px;
 }
 
