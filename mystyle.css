@@ -112,14 +112,17 @@ width:49%;
   .tree{
   left:197px;
   top:75px;
+  color:green;
   }
   .anchor{
   left:183px;
   top:130px;
+  color:blue;
   }
   .shower{
   left:220px;
   top:130px;
+  color:black;
 }
 .sc{
 transform:rotate(-40deg);
