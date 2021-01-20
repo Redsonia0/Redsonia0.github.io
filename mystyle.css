@@ -96,7 +96,7 @@ width:49%;
   position:absolute;
   font-size:140px;
   color:yellow;
-  left:180px;
+  left:190px;
   top:100px;
   }
   .ship, .sun, .tree, .eject, .sc, .shower{
@@ -109,9 +109,9 @@ width:49%;
   top:200px;
   }
   .shower{
-  left:190px;
+  left:250px;
   top:145px;
-  font-size:25px;
+  font-size:35px;
   color:black;
   }
   .tree{
@@ -128,7 +128,7 @@ top:135px;
 }
 .eject{
 transform:rotate(-180deg);
-font-size:45px;
+font-size:50px;
 left:390px;
 top:236px;
 color:blue;
