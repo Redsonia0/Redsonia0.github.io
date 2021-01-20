@@ -92,46 +92,46 @@ width:49%;
   #padding-left:30px;
   text-align:center;
   } 
-  .tree{
+  .cloud{
   position:absolute;
   font-size:220px;
   color:green;
   left:180px;
   top:10px;
   }
-  .bell, .berry, .cane, .mappin1, .mappin2, .star, .snowman, .snowflake{
+  .ship, .sun, .anchor, .tree, .eject, .sc, .shower{
   position:absolute;
   color:red;
   font-size:25px;
   }
-  .star{
+  .ship{
   color:yellow;
   font-size:40px;
   left:240px;
   top:-20px;
   }
-  .bell1{
+  .tree{
   left:197px;
   top:75px;
   }
-  .bell2{
+  .anchor{
   left:183px;
   top:130px;
   }
-  .berry1{
+  .cloud{
   left:267px;
   top:75px;
 }
-  .berry2{
+  .shower{
   left:220px;
   top:130px;
 }
-.cane1{
+.sc{
 transform:rotate(-40deg);
 left:300px;
 top:75px;
 }
-.cane2{
+.eject{
 transform:rotate(-40deg);
 left:320px;
 top:130px;
@@ -146,14 +146,14 @@ transform:rotate(180deg);
 left:330px;
 top:190px;
 }                
-.snowman{
-color:white;
+.sun{
+color:yellow;
 font-size:35px;
 left:245px;
 top:197px;
 }
-.snowflake{
-color:white;
+.tree{
+color:green;
 left:245px;
 top:50px;
 }
