@@ -130,9 +130,10 @@ left:300px;
 top:75px;
 }
 .eject{
-transform:rotate(-40deg);
-left:320px;
-top:130px;
+transform:rotate(-180deg);
+left:390px;
+top:260px;
+color:blue;
 }       
 .sun{
 color:yellow;
