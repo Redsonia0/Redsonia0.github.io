@@ -94,9 +94,9 @@ width:49%;
   } 
   .cloud{
   position:absolute;
-  font-size:220px;
+  font-size:100px;
   color:yellow;
-  left:130px;
+  left:135px;
   top:10px;
   }
   .ship, .sun, .anchor, .tree, .eject, .sc, .shower{
@@ -134,7 +134,7 @@ top:135px;
 }
 .eject{
 transform:rotate(-180deg);
-font-size:30px;
+font-size:40px;
 left:400px;
 top:236px;
 color:blue;
