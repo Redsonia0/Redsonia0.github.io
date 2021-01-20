@@ -123,12 +123,13 @@ width:49%;
   .shower{
   left:190px;
   top:130px;
+  font-size:25px;
   color:black;
 }
 .sc{
 transform:rotate(-40deg);
 color:brown;
-left:190px;
+left:220px;
 top:135px;
 }
 .eject{
